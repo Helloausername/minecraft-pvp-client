@@ -1,4 +1,4 @@
-# Minecraft PvP Client
+# Minecraft PvP Client AI SLOP!!!
 
 A fully functional, modular Minecraft PvP client built with Fabric for Minecraft 1.21.4.
 
