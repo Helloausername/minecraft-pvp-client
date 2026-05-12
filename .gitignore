@@ -1,0 +1,23 @@
+# Build directories
+build/
+build.gradle.kts
+.gradle/
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.swp
+*.swo
+*~
+
+# Minecraft
+run/
+.minecraft/
+
+# Config
+pvpclient_config/
+
+# OS
+Thumbs.db

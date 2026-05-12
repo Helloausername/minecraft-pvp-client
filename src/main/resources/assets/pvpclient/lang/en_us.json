@@ -1,0 +1,5 @@
+{
+  "key.pvpclient.toggle_gui": "Toggle PvP Client GUI",
+  "key.pvpclient.toggle_module": "Toggle Module",
+  "category.pvpclient.main": "PvP Client"
+}

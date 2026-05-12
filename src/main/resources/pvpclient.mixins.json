@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.pvpclient.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "ClientTickMixin",
+    "RenderMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
